@@ -1,9 +1,16 @@
 # React ProgressBar using WebSocket
 
-This is a frontend project that executes a progress bar using @stomp/stompjs.
+This is a frontend project that executes a progress bar using WebSocket.
 You need to run with a backend project found here [spring-ws-progress-bar](https://github.com/chbandeira/spring-ws-progress-bar).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Some of libs and frameworks used
+
+- @stomp/stompjs
+- react-bootstrap
+- bootstrap
+- axios
 
 ## Available Scripts
 
