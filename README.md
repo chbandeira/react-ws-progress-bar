@@ -1,6 +1,7 @@
 # React ProgressBar using WebSocket
 
 This is a frontend project that executes a progress bar using WebSocket.
+
 You need to run with a backend project found here [spring-ws-progress-bar](https://github.com/chbandeira/spring-ws-progress-bar).
 
 ![react-spring-ws-progressbar](https://user-images.githubusercontent.com/23635145/134098051-d1b42f4c-718d-4f3a-957e-1bbcc8e7e02a.png)
